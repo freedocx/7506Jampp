@@ -1,0 +1,4 @@
+# Se ignoran todos los archivos csv 
+*.csv
+.ipynb_checkpoints/
+data/
